@@ -1,16 +1,17 @@
 <div align="center">
     <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=JayceeTran1995&theme=metropolis&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=JiaLim679&theme=metropolis&data=followers,repositories,stars,commits' />
     </p>    
 </div>
 
 <p align="center">
-  <a href="https://github.com/JayceeTran1995">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Full-Stack%20Developer;AI,%20Blockchain%20Developer;Full-Stack%20Engineer;9+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
+  <a href="https://github.com/JiaLim679">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Angular%20Full-Stack%20Developer;AI,%Frontend%20Developer;Full-Stack%20Engineer;5+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 # 👨‍🎓 About Me:
-Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong passion for building intelligent, scalable, and secure digital solutions. Experienced in modern web technologies including React, Next.js, Node.js, Python, and TypeScript, combined with hands-on expertise in smart-contract development and decentralized applications. Skilled in designing seamless UI/UX experiences, integrating AI models into real products, and deploying DApps across leading blockchain networks. Dedicated to delivering high-performance systems, solving complex technical challenges, and contributing to future-focused projects at the intersection of AI and blockchain innovation.
+I'm Jia Lim, an Angular Full-Stack Developer with over 5+ years of professional experience designing, developing, and maintaining scalable web applications. I'm an expert in Angular, TypeScript, and modern frontend architectures, with strong backend experience using Node.js, REST APIs, and relational/non-relational databases.
+I specialize in building secure, high-performance applications and have a proven track record of delivering enterprise-grade solutions. My approach combines technical expertise with clean code principles and performance optimization to create intuitive user experiences that exceed expectations.
 
 
 # 💻 Tech Stack:
@@ -136,7 +137,7 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 ###
 
 <div align="center">
-<img src="https://count.getloli.com/@Hunterdii?name=jayceetran1995&theme=booru-lewd&darkmode=0&num=19960919&padding=8"  width="430"> 
+<img src="https://count.getloli.com/@Hunterdii?name=jialim&theme=love-and-deepspace&darkmode=0&num=19970510&padding=8"  width="480"> 
 </div>
 
 
