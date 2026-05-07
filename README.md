@@ -19,6 +19,9 @@ I'm Jia Lim, an Angular Full-Stack Developer with over 5+ years of professional 
 I specialize in building secure, high-performance applications and have a proven track record of delivering enterprise-grade solutions. My approach combines technical expertise with clean code principles and performance optimization to create intuitive user experiences that exceed expectations.
 </p>
 
+</br>
+</br>
+</br>
 
 
 <p align="left" >
