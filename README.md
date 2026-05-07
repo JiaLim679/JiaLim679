@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/JiaLim679">
-<img src="https://readme-typing-svg.demolab.com/?lines=About%20Me;About%20Me;About%20Me;About%20Me;&font=Shantell+Sans&size=24&center=true&vCenter=true&width=300&height=60&color=f75c7e&pause=1000" align="left" />
+<img src="https://readme-typing-svg.demolab.com/?lines=About%20Me;About%20Me;About%20Me;About%20Me;&font=Shantell+Sans&size=24&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="left" />
 </a>
 </p>
 
