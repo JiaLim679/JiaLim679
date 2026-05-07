@@ -9,13 +9,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Angular%20Full-Stack%20Developer;AI,%Frontend%20Developer;Full-Stack%20Engineer;5+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
-<p align="left" style="width: 100%">
-  <a href="https://github.com/JiaLim679">
+
 <img src="https://readme-typing-svg.demolab.com/?lines=About%20Me;About%20Me;About%20Me;About%20Me;&font=Shantell+Sans&size=24&center=true&vCenter=true&width=200&height=50&color=f75c7e&pause=1000" align="left" />
-</a> </br>
+
+
 I'm Jia Lim, an Angular Full-Stack Developer with over 5+ years of professional experience designing, developing, and maintaining scalable web applications. I'm an expert in Angular, TypeScript, and modern frontend architectures, with strong backend experience using Node.js, REST APIs, and relational/non-relational databases.
 I specialize in building secure, high-performance applications and have a proven track record of delivering enterprise-grade solutions. My approach combines technical expertise with clean code principles and performance optimization to create intuitive user experiences that exceed expectations.
-</p>
 
 
 
