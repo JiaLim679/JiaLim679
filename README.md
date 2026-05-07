@@ -164,7 +164,9 @@ I specialize in building secure, high-performance applications and have a proven
 </picture>
 
 
-
+<div align="center">
+<img src="https://count.getloli.com/@Hunterdii?name=jialim&theme=booru-helltaker&darkmode=0&num=19970510&padding=8"  width="480"> 
+</div>
 
 
 
