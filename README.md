@@ -24,7 +24,7 @@ I specialize in building secure, high-performance applications and have a proven
 
 
 
-<p align="left" >
+<p align="center" >
   <a href="https://github.com/JiaLim679">
 <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stack;Tech%20Stack;Tech%20Stack;Tech%20Stack;&font=Shantell+Sans&size=32&center=true&vCenter=true&width=200&height=50&color=f75c7e&pause=1000" align="center" />
 </a>
