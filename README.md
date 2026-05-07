@@ -163,13 +163,16 @@ I specialize in building secure, high-performance applications and have a proven
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
 
+</br>
+</br>
+
 
 <div align="center">
-<img src="https://count.getloli.com/@Hunterdii?name=jialim&theme=booru-helltaker&darkmode=0&num=0123456789&padding=10"  width="580"> 
+<img src="https://count.getloli.com/@Hunterdii?name=jialim&theme=booru-helltaker&darkmode=0&num=0123456789&padding=10&scale=1.1"  width="580"> 
 </div>
 
-
-
+</br>
+</br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayceeTran1995&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
